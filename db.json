@@ -1,0 +1,77 @@
+{
+  "financialHistory": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "ingreso",
+      "amount": 100,
+      "description": "Salario mensual"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "type": "gasto",
+      "amount": 30,
+      "description": "Cena"
+    },
+    {
+      "userId": 1,
+      "type": "ingreso",
+      "amount": 100,
+      "description": "Salario mensual",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "type": "ingreso",
+      "amount": 100,
+      "description": "Salario mensual",
+      "id": 4
+    }
+  ],
+  "Expenses": [
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-19T19:23:04.813Z",
+      "description": "sssss",
+      "expenseType": "Food",
+      "amount": 12,
+      "id": 1
+    },
+    {
+      "description": "sssss",
+      "amount": 1,
+      "expenseType": "Food",
+      "expenseDate": "2023-10-19T23:40:11.601Z",
+      "userId": 100,
+      "id": 2
+    },
+    {
+      "description": "sssss",
+      "amount": 1,
+      "expenseType": "Food",
+      "expenseDate": "2023-10-19T23:46:06.931Z",
+      "userId": 100,
+      "id": 3
+    },
+    {
+      "description": "sssss",
+      "amount": 1,
+      "expenseType": "Food",
+      "expenseDate": "2023-10-19T23:46:06.931Z",
+      "userId": 100,
+      "id": 4
+    }
+  ],
+  "History": [],
+  "Incomes": [
+    {
+      "userId": 100,
+      "expenseDate": "2023-10-19T19:28:08.153Z",
+      "description": "sssss",
+      "expenseType": "Food",
+      "amount": 12,
+      "id": 1
+    }
+  ]
+}
